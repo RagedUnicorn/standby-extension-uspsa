@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "uspsa.paper",
+  "names": {
+    "en": "USPSA target",
+    "de": "USPSA-Ziel",
+    "fr": "Cible USPSA"
+  },
+  "category": "targets",
+  "family": "target",
+  "disciplines": ["uspsa"],
+  "labelFamily": "T",
+  "count": {
+    "class": "paper"
+  },
+  "art": {
+    "kind": "board",
+    "board": "uspsa"
+  },
+  "physical": {
+    "width": 460,
+    "height": 760
+  }
+}

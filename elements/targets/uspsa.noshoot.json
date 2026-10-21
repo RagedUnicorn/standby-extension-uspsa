@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/element.json",
+  "id": "uspsa.noshoot",
+  "names": {
+    "en": "No-shoot",
+    "de": "No-shoot",
+    "fr": "No-shoot"
+  },
+  "category": "targets",
+  "family": "target",
+  "disciplines": ["uspsa"],
+  "labelFamily": null,
+  "count": {
+    "class": "noshoot"
+  },
+  "art": {
+    "kind": "board",
+    "board": "uspsa",
+    "white": true,
+    "noShoot": "x-bars"
+  },
+  "physical": {
+    "width": 460,
+    "height": 760
+  }
+}

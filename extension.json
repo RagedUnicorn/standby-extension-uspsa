@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/extension.json",
+  "format": 1,
+  "id": "uspsa",
+  "names": {
+    "en": "USPSA",
+    "de": "USPSA",
+    "fr": "USPSA"
+  },
+  "version": "1.0.0",
+  "standby": "0.1.0",
+  "repository": "RagedUnicorn/standby-extension-uspsa",
+  "licence": "MIT",
+  "disciplines": ["uspsa"],
+  "stageDefaults": {
+    "uspsa": {
+      "board": "uspsa",
+      "trapTarget": "uspsa.paper"
+    }
+  },
+  "order": ["uspsa.paper", "uspsa.noshoot"]
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/RagedUnicorn/standby-extension-kit/master/schema/v1/board.json",
+  "id": "uspsa",
+  "discipline": "uspsa",
+  "width": 460,
+  "height": 760,
+  "outline": [
+    [150, 0],
+    [310, 0],
+    [310, 150],
+    [407.071, 150],
+    [460, 202.929],
+    [460, 606.18],
+    [383.09, 760],
+    [76.91, 760],
+    [0, 606.18],
+    [0, 202.929],
+    [52.929, 150],
+    [150, 150]
+  ],
+  "noShoot": {
+    "lines": [[[5, 255], [455, 505]], [[455, 255], [5, 505]]],
+    "width": 33.333
+  },
+  "source": {
+    "repo": "RagedUnicorn/shooting-sports-targets",
+    "file": "tools/affinity_scripts/uspsa_master_generate.js",
+    "commit": "e2b6677fec8dc5a1c2f659c52993bd6f1a5f4a8c",
+    "note": "scoring figure offset by its 5 mm non-scoring border"
+  }
+}
