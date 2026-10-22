@@ -1,3 +1,5 @@
+![standby-extension-uspsa](docs/standby_extension_uspsa_banner.svg)
+
 # Standby extension: USPSA
 
 What [Standby](https://github.com/RagedUnicorn/standby) draws for USPSA stages:
