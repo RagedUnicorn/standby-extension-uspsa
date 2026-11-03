@@ -16,7 +16,6 @@
   "art": {
     "kind": "board",
     "board": "uspsa",
-    "white": true,
     "noShoot": "x-bars"
   },
   "physical": {
