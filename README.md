@@ -2,7 +2,7 @@
 
 # Standby extension: USPSA
 
-What [Standby](https://github.com/RagedUnicorn/standby) draws for USPSA stages:
+What [Standby](https://github.com/RagedUnicorn/standby-editor) draws for USPSA stages:
 
 - **Targets**: the USPSA target and the no-shoot.
 - **Board** `uspsa`: the true outline (seeded from RagedUnicorn/shooting-sports-targets) and the no-shoot's X.
